@@ -10,7 +10,7 @@
 ---
 
 **Ссылка на деплой игры:**
-- [Игра "Свинья"](https://banditos86.github.io/pig-game-dice/ 'Игра "Свинья"')
+- [Игра "Свинья"](https://sashadev86.github.io/pig-game-dice/ 'Игра "Свинья"')
 
 ---
 
